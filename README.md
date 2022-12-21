@@ -1,4 +1,6 @@
-Hello, I make 2D and 3D games in Unity
+C#, Java, Python developer
+I make games in Unity
+I'm also the founder of my team at [Charnold Games](https://github.com/CharnoldGames)
 
 <!---
 CharlesGameDev/CharlesGameDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
